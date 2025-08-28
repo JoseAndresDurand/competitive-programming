@@ -1,3 +1,9 @@
+# Problema:   71A - A. Way Too Long Words
+# Plataforma: Codeforces
+# Enlace:     https://codeforces.com/problemset/problem/71/A
+# Veredicto:  Accepted
+# Notas:      Aprendí el uso de la librería sys y sus métodos.
+
 import sys
 
 def solve():
